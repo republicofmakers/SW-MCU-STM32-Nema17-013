@@ -1,4 +1,4 @@
-# SW-MCU-STM32-Nema17-013
+# SW-MCU-STM32-A4988-013
 
 <img width="507" alt="stm32f103-A4988" src="https://github.com/user-attachments/assets/5c29abc5-2a16-4264-ab03-fa6402f93e18">
 
